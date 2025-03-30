@@ -1,0 +1,6 @@
+virtualenv
+tensorflow
+xplique
+scikit-learn
+tqdm
+h5py
